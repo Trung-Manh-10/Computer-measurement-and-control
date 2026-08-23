@@ -5,6 +5,12 @@ A remote agricultural drying system designed to monitor and control the drying c
 The project combines embedded programming, electronic hardware design, power control, IoT communication, and temperature control to develop an automated drying system.
 
 ---
+Citation:  
+You can check the document file there: 
+```
+https://docs.google.com/document/d/1uAhRXvkbzyLu1bBwa1L5f1M4FZBYYodd/edit?usp=sharing&ouid=100423899415976353201&rtpof=true&sd=true
+```
+---
 
 ## Project Overview
 
